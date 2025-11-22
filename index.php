@@ -108,6 +108,9 @@ display: grid; grid-template-columns : repeat(1,1fr); width: 100%; gap: 10px
 }
 
 </style>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
 </head>
 
 <body>
