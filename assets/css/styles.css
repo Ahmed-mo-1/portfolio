@@ -1,0 +1,61 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing : border-box;
+	font-family: poppins
+}
+
+body {
+	padding: 10px;
+	background: #151515
+}
+
+.skill-tab {
+	padding: 4px 10px; 
+	border-radius: 50px; 
+	background: #5f55; 
+	color : white; 
+	min-width: 40px; 
+	text-align: center
+}
+
+.card {
+	width: 100%; 
+	background: #5f52; 
+	color: white ; 
+	border: 1px solid #5f5a; 
+	padding: 20px; 
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+	gap: 16px
+}
+
+.icon {
+	width: 50px;
+	aspect-ratio: 1;
+	padding: 4px;
+	border-radius: 12px;
+	background: #5f52
+}
+
+.icon img {
+	width: 100%;
+	filter: brightness(0) invert(1)
+}
+
+.grid {
+	display: grid; grid-template-columns : repeat(4,1fr); width: 100%; gap: 10px
+}
+
+@media(max-width: 900px){
+.grid {
+display: grid; grid-template-columns : repeat(2,1fr); width: 100%; gap: 10px
+}
+}
+
+@media(max-width: 700px){
+.grid {
+display: grid; grid-template-columns : repeat(1,1fr); width: 100%; gap: 10px
+}
+}
