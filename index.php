@@ -66,13 +66,15 @@
     <h1>@ahmad.works</h1>
 
     <div class="links">
-        <a href="https://khamsat.com" target="_blank">Khamsat</a>
-        <a href="https://wa.me/0000000000" target="_blank">WhatsApp</a>
-        <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a>
-        <a href="https://www.youtube.com/" target="_blank">YouTube</a>
-        <a href="https://www.facebook.com/" target="_blank">Facebook</a>
-        <a href="https://www.instagram.com/" target="_blank">Instagram</a>
-        <a href="https://www.upwork.com/" target="_blank">Upwork</a>
+        <a href="https://khamsat.com/user/code_3d" target="_blank">Khamsat</a>
+        <a href="https://wa.me/+20 10 02720186" target="_blank">WhatsApp</a>
+        <a href="https://www.linkedin.com/in/ahmadworks/" target="_blank">LinkedIn</a>
+        <a href="https://www.youtube.com/@ahmad-works" target="_blank">YouTube</a>
+        <a href="https://www.facebook.com/profile.php?id=61583750586441" target="_blank">Facebook</a>
+        <a href="https://www.instagram.com/ahmad.wordpress/" target="_blank">Instagram</a>
+        <a href="https://www.instagram.com/ahmad.works/" target="_blank">Instagram</a>
+        <a href="https://telegram.me/ahmedworks" target="_blank">Telegram</a>
+        <a href="https://www.upwork.com/freelancers/~01dc7c9d366da57791?mp_source=share" target="_blank">Upwork</a>
     </div>
 
 </div>
