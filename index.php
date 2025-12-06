@@ -67,7 +67,7 @@
 
     <div class="links">
         <a href="https://khamsat.com/user/code_3d" target="_blank">Khamsat</a>
-        <a href="https://wa.me/+20 10 02720186" target="_blank">WhatsApp</a>
+        <a href="https://wa.me/+201002720186" target="_blank">WhatsApp</a>
         <a href="https://www.linkedin.com/in/ahmadworks/" target="_blank">LinkedIn</a>
         <a href="https://www.youtube.com/@ahmad-works" target="_blank">YouTube</a>
         <a href="https://www.facebook.com/profile.php?id=61583750586441" target="_blank">Facebook</a>
