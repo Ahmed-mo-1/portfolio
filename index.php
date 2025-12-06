@@ -65,7 +65,7 @@
 
     <h1>@ahmad.works</h1>
 
-<p style="width: 100%; text-align: justify">
+<p style="width: 100%; text-align: start">
 WordPress developer with 4+ years of experience in custom theme and plugin development. Delivered over 30 freelance projects and collaborated with multiple companies across the UAE, Saudi Arabia, Egypt, Kuwait, Jordan, Iraq, and Yemen. Specialized in building high-performance, secure, and scalable eCommerce websites with modern UI/UX design and multilingual features.
 </p>
 
