@@ -65,6 +65,10 @@
 
     <h1>@ahmad.works</h1>
 
+<p style="width: 90%; max-width: 600px">
+WordPress developer with 4+ years of experience in custom theme and plugin development. Delivered over 30 freelance projects and collaborated with multiple companies across the UAE, Saudi Arabia, Egypt, Kuwait, Jordan, Iraq, and Yemen. Specialized in building high-performance, secure, and scalable eCommerce websites with modern UI/UX design and multilingual features.
+</p>
+
     <div class="links">
         <a href="https://khamsat.com/user/code_3d" target="_blank">Khamsat</a>
         <a href="https://wa.me/+201002720186" target="_blank">WhatsApp</a>
